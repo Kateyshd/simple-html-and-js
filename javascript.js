@@ -7,3 +7,16 @@ let c2f = function(celsius){
 }
 
 console.log (c2f(2))
+
+
+
+let age =32;
+function canConsumeAlcholoInVegas(){
+    let age=16;
+    if (age>=21){
+        return true;
+    }
+    else{
+        return false;
+    }
+}
